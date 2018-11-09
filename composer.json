@@ -1,0 +1,13 @@
+{
+  "name": "spryker-feature/shipment",
+  "description": "Shipment [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker/shipment": "^6.6.2",
+    "spryker/shipment-cart-connector": "^1.0.1",
+    "spryker/shipment-discount-connector": "^1.1.2"
+  }
+}
