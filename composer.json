@@ -7,5 +7,10 @@
   "require": {
     "php": ">=7.1",
     "spryker/shipment": "^6.6.3"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
