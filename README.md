@@ -1,6 +1,6 @@
 # Spryker Feature: Shipment
 
-Shipment Carriers & Methods, Shipment Cost Calculation Rules
+The Shipment feature allows you to incorporate shipment Carriers & methods for your shop, as well as define shipment cost calculation rules
 
 ## Installation
 
