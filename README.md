@@ -7,3 +7,8 @@ The Shipment feature allows you to incorporate shipment Carriers & methods for y
 ```
 composer require spryker-feature/shipment
 ```
+
+## Optional modules
+- [QuoteApprovalShipmentConnector ^1.0.0](https://github.com/spryker/quote-approval-shipment-connector) (Connector)
+- [ShipmentDiscountConnector ^4.0.0](https://github.com/spryker/shipment-discount-connector) (Connector)
+- [ShipmentsRestApi](https://github.com/spryker/shipments-rest-api) (Glue)
