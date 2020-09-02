@@ -7,9 +7,9 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker/shipment": "^8.0.0",
+    "spryker/shipment": "^8.6.0",
     "spryker/shipment-data-import": "^1.0.0",
-    "spryker/shipment-gui": "^2.0.0"
+    "spryker/shipment-gui": "^2.3.0"
   },
   "extra": {
     "branch-alias": {
