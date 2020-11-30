@@ -15,3 +15,4 @@ composer require spryker-feature/shipment
 - [ShipmentExtension](https://github.com/spryker/shipment-extension) (Extension)
 - [ShipmentGuiExtension ^0.1.0](https://github.com/spryker/shipment-gui-extension) (Extension)
 - [ShipmentsRestApi](https://github.com/spryker/shipments-rest-api) (Glue)
+- [ShipmentsRestApiExtension ^1.0.0](https://github.com/spryker/shipments-rest-api-extension) (Extension)
