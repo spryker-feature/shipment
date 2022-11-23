@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=7.4",
         "spryker/shipment": "^8.10.0",
         "spryker/shipment-data-import": "^1.1.0",
         "spryker/shipment-gui": "^2.6.0"
