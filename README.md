@@ -14,5 +14,6 @@ composer require spryker-feature/shipment
 - [ShipmentDiscountConnector ^4.0.0](https://github.com/spryker/shipment-discount-connector) (Connector)
 - [ShipmentExtension](https://github.com/spryker/shipment-extension) (Extension)
 - [ShipmentGuiExtension ^1.0.0](https://github.com/spryker/shipment-gui-extension) (Extension)
-- [ShipmentsRestApi](https://github.com/spryker/shipments-rest-api) (Glue)
+- [ShipmentsBackendApi ^0.1.0](https://github.com/spryker/shipments-backend-api) (Glue Backend)
+- [ShipmentsRestApi](https://github.com/spryker/shipments-rest-api) (Legacy Glue)
 - [ShipmentsRestApiExtension ^1.0.0](https://github.com/spryker/shipments-rest-api-extension) (Extension)
