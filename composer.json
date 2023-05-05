@@ -9,7 +9,9 @@
         "php": ">=8.0",
         "spryker/shipment": "^8.10.0",
         "spryker/shipment-data-import": "^1.1.0",
-        "spryker/shipment-gui": "^2.6.0"
+        "spryker/shipment-gui": "^2.6.0",
+        "spryker/shipment-type": "^0.1.0",
+        "spryker/shipment-type-data-import": "^0.1.0"
     },
     "extra": {
         "branch-alias": {
