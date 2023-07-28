@@ -2,6 +2,8 @@
 
 The Shipment feature allows you to incorporate shipment Carriers & methods for your shop, as well as define shipment cost calculation rules
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/carrier-management/202307.0/base-shop/shipment-feature-overview.html)
+
 ## Installation
 
 ```
