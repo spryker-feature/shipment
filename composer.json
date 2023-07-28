@@ -7,6 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
+        "spryker-shop/shipment-type-widget": "^0.1.0",
         "spryker/shipment": "^8.15.0",
         "spryker/shipment-data-import": "^1.2.0",
         "spryker/shipment-gui": "^2.8.0",
