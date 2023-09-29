@@ -20,5 +20,5 @@ composer require spryker-feature/shipment
 - [ShipmentsRestApi](https://github.com/spryker/shipments-rest-api) (Legacy Glue)
 - [ShipmentsRestApiExtension ^1.0.0](https://github.com/spryker/shipments-rest-api-extension) (Extension)
 - [ShipmentTypesBackendApi ^0.2.0](https://github.com/spryker/shipment-types-backend-api) (Glue Backend)
-- [ShipmentTypesRestApi ^0.1.0](https://github.com/spryker/shipment-types-rest-api) (Legacy Glue)
+- [ShipmentTypesRestApi ^0.2.0](https://github.com/spryker/shipment-types-rest-api) (Legacy Glue)
 - [ShipmentTypeStorageExtension ^0.1.0](https://github.com/spryker/shipment-type-storage-extension) (Extension)
