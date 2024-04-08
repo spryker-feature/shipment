@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.1",
         "spryker-shop/shipment-page": "^1.0.0",
         "spryker-shop/shipment-type-widget": "^1.2.0",
         "spryker/sales-shipment-type": "^1.0.0",
